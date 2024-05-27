@@ -1,0 +1,10 @@
+flask
+flask-cors
+pinecone
+werkzeug 
+PyPDF2
+sentence-transformers
+os
+re
+sklearn
+python-dotenv
