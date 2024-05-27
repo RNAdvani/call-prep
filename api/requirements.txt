@@ -4,6 +4,5 @@ pinecone
 werkzeug 
 PyPDF2
 sentence-transformers
-re
 sklearn
 python-dotenv
